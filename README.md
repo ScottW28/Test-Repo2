@@ -11,3 +11,5 @@ Testing
 1. Open and testing
 
 2. Creation
+
+3. Balance
